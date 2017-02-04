@@ -1,4 +1,4 @@
-Naming convention for folders.
+ming convention for folders.
 <br>EP, nickname for example programs.
 <br>WK, nickname for worth keeping.
 
@@ -112,4 +112,5 @@ Saving session...
 ...saving history...truncating history files...
 ...completed.
 </pre>
+
 
